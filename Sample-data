@@ -1,0 +1,14 @@
+echo "Product: Chicken Delight
+Type: Dry Food
+Calories: 350 kcal/cup
+Ingredients: Chicken, Rice, Corn, Vitamins, Taurine
+
+Product: Salmon Feast
+Type: Wet Food
+Calories: 180 kcal/can
+Ingredients: Salmon, Water, Carrots, Minerals, Taurine
+
+Product: Beef & Liver Mix
+Type: Dry Food
+Calories: 400 kcal/cup
+Ingredients: Beef, Liver, Wheat, Peas, Taurine" > cat-food.txt
